@@ -10,7 +10,7 @@
 [![verified-by-homebridge](https://badgen.net/badge/homebridge/verified/purple)](https://github.com/homebridge/homebridge/wiki/Verified-Plugins)
 [![NPM Version](https://img.shields.io/npm/v/homebridge-dreo.svg)](https://www.npmjs.com/package/homebridge-dreo)
 
-Homebridge plugin for Dreo brand smart devices.
+Homebridge plugin for Dreo brand smart devices - forked for immediate heater support.
 <p align="center">
 <img src="https://github.com/zyonse/homebridge-dreo/assets/28782587/557325f4-8872-40a7-b4a8-7a4ce5f55430" width=200>
 </p>
@@ -29,7 +29,7 @@ Homebridge plugin for Dreo brand smart devices.
 Please let me know if you have another model that works or doesn't work. The plugin *should* also be compatible with multiple devices on the same account but I haven't tested this. Non-fan smart devices are not supported at this time, but if you have another device and can help me test some code out I would definitely be open to adding support.
 ## Installation
 ```
-npm i homebridge-dreo
+npm i @miblanchard/homebridge-dreo
 ```
 (Or install through the Homebridge UI)
 
