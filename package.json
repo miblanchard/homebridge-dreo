@@ -6,10 +6,10 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zyonse/homebridge-dreo.git"
+    "url": "git+https://github.com/miblanchard/homebridge-dreo.git"
   },
   "bugs": {
-    "url": "https://github.com/zyonse/homebridge-dreo/issues"
+    "url": "https://github.com/miblanchard/homebridge-dreo/issues"
   },
   "funding": {
     "type": "paypal",
