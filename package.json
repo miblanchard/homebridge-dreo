@@ -1,8 +1,8 @@
 {
-  "displayName": "Homebridge Dreo",
+  "displayName": "Homebridge Dreo - miblanchard fork",
   "name": "@miblanchard/homebridge-dreo",
   "version": "3.2.2-beta.12",
-  "description": "Homebridge Plugin for Dreo Smart Devices",
+  "description": "Homebridge Plugin for Dreo Smart Devices - forked for heater support",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
